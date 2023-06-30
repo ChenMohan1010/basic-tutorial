@@ -4,6 +4,7 @@ repo_name: basic-tutorial
 theme:
   name: material
   language: zh
+  custom_dir: theme/
   features:
     - navigation.top
     - navigation.tabs
