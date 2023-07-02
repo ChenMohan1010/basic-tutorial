@@ -4,4 +4,4 @@
 
 !!! note "Don't be afraid"
 
-    基础技能培训顾名思义，并不是那么可怕。
+    基础技能培训顾名思义，并不是那么可怕。Just learn it.
