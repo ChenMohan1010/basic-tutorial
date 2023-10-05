@@ -12,7 +12,7 @@
 
 
 <div align=center>
-<img src="../images/lesson1.png", width=60%/>
+<img src="../images/lesson1.png", width=50%/>
 </div>
 
 * 第二讲
@@ -20,8 +20,14 @@
     * 时间：2023 秋季学期第七周周末 
     * 讲师：计 16 李骋昊
     * 内容：编辑器与标记语言——VSCode 与 markdown
-    * 简介：TODO
+    * 简介：本节课程是科普性质，将介绍一些常见工具和作为cs学生的常识。你是否想了解——环境变量，编译器，链接器，IDE，编辑器，调试器分别是什么？当你在 VSCode 中点击按钮然后运行代码时，发生了什么？README.md 究竟是个什么格式？“烫烫烫”“锟斤拷”是什么梗？在这节课上，都可以找到答案。
     * 链接：Coming soon...
+
+
+
+<div align=center>
+<img src="../images/lesson2.png", width=50%/>
+</div>
 
 * 第三讲
 
