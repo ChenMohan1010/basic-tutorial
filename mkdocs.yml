@@ -65,6 +65,9 @@ nav:
     - index.md
     - 读者须知: notes/reader.md
     - 编辑者须知: notes/editor.md
+  
+  - 资源链接: 
+    - links/index.md
 
   - 课程指引:
     - courses/index.md
