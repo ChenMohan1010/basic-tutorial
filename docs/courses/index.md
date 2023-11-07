@@ -22,7 +22,8 @@
     * 讲师：计 16 李骋昊
     * 内容：编辑器与标记语言——VSCode 与 markdown
     * 简介：本节课程是科普性质，将介绍一些常见工具和作为 cs 学生的常识。你是否想了解——环境变量，编译器，链接器，IDE，编辑器，调试器分别是什么？当你在 VSCode 中点击按钮然后运行代码时，发生了什么？README.md 究竟是个什么格式？“烫烫烫”“锟斤拷”是什么梗？在这节课上，都可以找到答案。
-    * 链接：Coming soon...
+    * 讲义：[第二节课讲义](https://cloud.tsinghua.edu.cn/d/cce7da2c3c4a48f89e45/)
+    * 课程回放：[第二节课回放](https://cloud.tsinghua.edu.cn/f/2ea9063bf5f84970a8dc/)
 
 
 
